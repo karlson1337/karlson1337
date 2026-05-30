@@ -25,5 +25,3 @@ Lightweight Unix shell written in C++17.
 - Cryptography & security
 - Low-level C/C++
 ---
- 
-> *Building things that matter from the ground up.*
