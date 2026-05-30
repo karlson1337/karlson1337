@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a college student in India, building things close to the metal — systems programming, network security, cryptography, and low-level C/C++.
+I'm a college student in India, building things close to the metal: systems programming, network security, cryptography, and low-level C/C++.
 
 **Languages:**
 
@@ -26,7 +26,7 @@ I'm a college student in India, building things close to the metal — systems p
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 
-## projects
+## Projects
  
 ### 🔐 [hermes-messenger](https://github.com/karlson1337/hermes-messenger)
 End-to-end encrypted terminal messenger for \*nix, written in C/C++.
