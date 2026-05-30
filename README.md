@@ -24,4 +24,6 @@ Lightweight Unix shell written in C++17.
 - Network programming (sockets, protocols)
 - Cryptography & security
 - Low-level C/C++
+- Cloud infrastructure & distributed systems (AWS, IaC, large-scale deployments)
+
 ---
