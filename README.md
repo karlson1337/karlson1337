@@ -2,6 +2,8 @@
 
 I'm a college student in India, building things close to the metal: systems programming, network security, cryptography, and low-level C/C++.
 
+I'm currently exploring: cloud infrastructure and distributed systems.
+
 **Languages:**
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
