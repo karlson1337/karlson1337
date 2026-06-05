@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-I'm a college student in India, building things close to the metal: systems programming, network security, cryptography, and low-level C/C++.
+I'm a college student in India with a focus on systems programming, networking, and cloud - working primarily in C, C++, and Rust
 
-I'm currently exploring: cloud infrastructure and distributed systems.
+Currently exploring cloud infrastructure, distributed systems, DevOps, and CI/CD.
 
 **Languages:**
 
@@ -15,8 +15,10 @@ I'm currently exploring: cloud infrastructure and distributed systems.
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 **Tools and Libraries:**
+
 
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -25,20 +27,22 @@ I'm currently exploring: cloud infrastructure and distributed systems.
 
 **Cloud:**
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 
 ## Projects
  
 ### 🔐 [hermes-messenger](https://github.com/karlson1337/hermes-messenger)
 End-to-end encrypted terminal messenger for \*nix, written in C/C++.
-- X25519 + XSalsa20-Poly1305 encryption via libsodium (`crypto_box_seal`) — server forwards ciphertext it can't read
+- X25519 + XSalsa20-Poly1305 encryption via libsodium (`crypto_box_seal`) - server forwards ciphertext it can't read
 - Ed25519 identity keypairs; private keys stored locally, encrypted with Argon2-derived keys
 - SQLCipher-encrypted local chat history
 - TCP socket server with pthreads for concurrent connections
 ### 🐚 [shellfish](https://github.com/karlson1337/shellfish)
-Lightweight Unix shell written in C++17.
+Lightweight Unix shell written in C++.
 - Pipelines (`|`), I/O redirection (`>`, `>>`, `<`), environment variable expansion
 - Persistent history via GNU readline (`~/.shellfish_history`)
 - Directory stack (`cd -`), script execution mode, clean `SIGINT` handling
@@ -48,8 +52,7 @@ Lightweight Unix shell written in C++17.
 ## interests
 - Systems & OS internals
 - Network programming (sockets, protocols)
-- Cryptography & security
-- Low-level C/C++
+- Low-level C/C++/Rust
 - Cloud infrastructure & distributed systems (AWS, IaC, large-scale deployments)
 
 ---
