@@ -35,7 +35,7 @@ Currently exploring cloud infrastructure, distributed systems, DevOps, and CI/CD
 ## Projects
  
 ### 🔐 [hermes-messenger](https://github.com/karlson1337/hermes-messenger)
-End-to-end encrypted terminal messenger for \*nix, written in C/C++.
+End-to-end encrypted terminal messenger for Linux and macOS, written in C/C++.
 - X25519 + XSalsa20-Poly1305 encryption via libsodium (`crypto_box_seal`) - server forwards ciphertext it can't read
 - Ed25519 identity keypairs; private keys stored locally, encrypted with Argon2-derived keys
 - SQLCipher-encrypted local chat history
