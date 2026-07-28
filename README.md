@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-I'm a college student in India with a focus on systems programming, networking, and cloud - working primarily in C, C++, and Rust
-
+I'm a college student with a focus on systems programming, networking, and cloud - working primarily in C, C++, and Rust.
 Currently exploring cloud infrastructure, distributed systems, DevOps, and CI/CD.
 
 **Languages:**
