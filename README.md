@@ -39,6 +39,7 @@ End-to-end encrypted terminal messenger for Linux and macOS, written in C/C++.
 - Ed25519 identity keypairs; private keys stored locally, encrypted with Argon2-derived keys
 - SQLCipher-encrypted local chat history
 - TCP socket server with pthreads for concurrent connections
+- Hosted on AWS EC2 under a subdomain.
 ### 🐚 [shellfish](https://github.com/karlson1337/shellfish)
 Lightweight Unix shell written in C++.
 - Pipelines (`|`), I/O redirection (`>`, `>>`, `<`), environment variable expansion
