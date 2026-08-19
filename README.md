@@ -3,11 +3,13 @@
 I'm a college student with a focus on systems programming, networking, and cloud - working primarily in C, C++, and Rust.
 Currently exploring cloud infrastructure, distributed systems, DevOps, and CI/CD.
 
-**Languages:**
+**Languages/Scripting:**
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-B7472A?style=for-the-badge&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
